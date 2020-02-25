@@ -1,0 +1,3 @@
+[submodule "lmu.ansible.playbooks"]
+	path = ansible
+	url = https://github.com/loechel/lmu.ansible.playbooks.git
